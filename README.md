@@ -13,7 +13,7 @@
         <a href="https://github.com/beatrizlmouta?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
-            title="Stars" 
+            title="Stars on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/beatrizlmouta?color=FFCBDB&style=for-the-badge&labelColor=FFCBDB&logo=star&labelstars=stars&logoColor=black"
         />
     </a>
